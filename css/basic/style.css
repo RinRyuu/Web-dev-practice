@@ -1,0 +1,13 @@
+#body{
+    background-color: #02010a;
+}
+
+#main{
+    background-color: antiquewhite;
+    height: 100px;
+    width: 300px;
+    border: 5px solid blueviolet;
+    box-shadow: inset 100;
+    border-radius: 25px;
+    text-align: center;
+}
