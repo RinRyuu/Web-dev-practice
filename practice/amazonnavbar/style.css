@@ -1,0 +1,24 @@
+.navbar{
+    background-color: gray;
+    height: 60px;
+    text-align: center;
+   
+}
+
+a {
+    margin-right: 190px;
+    margin-top: 55vh;
+    text-decoration: none;
+    text-size-adjust: 10vh;
+    color: aliceblue;
+}
+
+.logo{
+    color: orange;
+}
+
+.but{
+    background-color: orange;
+    border-radius: 5px;
+    color: whitesmoke;
+}
