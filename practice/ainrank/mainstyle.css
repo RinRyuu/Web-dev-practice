@@ -1,0 +1,26 @@
+.body{
+    background-color: #2c2f33;
+    text-align: center;
+}
+
+img{
+    width: 20vw;
+    border-radius: 5%;
+}
+
+.allgrids{
+    display: flex;
+}
+
+.rank1,.rank2to3,.rank4to7,.rank8to15{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: space-evenly;
+    column-gap: 2.5vw;
+    row-gap: 5vh;
+}
+.rank4to7,.rank8to15{
+    column-count: 4;
+    column-gap: 1vw;
+}
